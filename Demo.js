@@ -6,7 +6,7 @@ import ItemInScroll from './ItemInScroll';
 
 export const scrollRangeForAnimation = 100;
 
-const HeaderPlaceholder = <View style={{flex: 0, height: 200, width: '100%'}} />;
+const HeaderPlaceholder = <View style={{flex: 0, height: 210, width: '100%'}} />;
 
 const Demo = ({scrollY, animationRange}) => {  
     let _scrollView = null;
