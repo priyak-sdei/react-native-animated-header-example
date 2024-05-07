@@ -7,5 +7,3 @@ Read more about it at <a href="https://medium.com/@zoharlevin_87944/how-i-linked
 
 
 
-This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
-
